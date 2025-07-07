@@ -6,8 +6,4 @@ Tengo un gran interés en el desarrollo front-end, porque me encanta la parte vi
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscojarusz/)
 
-
-
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Franciscojarusz&theme=dark&hide_border=true&border_radius=20&locale=es&short_numbers=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscojarusz)](https://github.com/anuraghazra/github-readme-stats)

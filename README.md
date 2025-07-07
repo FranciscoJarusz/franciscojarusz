@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hola, soy Francisco!
 
-<!--
-**FranciscoJarusz/franciscojarusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Licenciatura en Sistemas de Información en la Universidad Nacional de Luján (UNLu).
 
-Here are some ideas to get you started:
+Tengo un gran interés en el desarrollo front-end, porque me encanta la parte visual y creativa de construir interfaces atractivas y funcionales; aunque también siento curiosidad por el back-end y cómo funciona todo detrás.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscojarusz/)
+
+
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Franciscojarusz&theme=dark&hide_border=true&border_radius=20&locale=es&short_numbers=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats) 

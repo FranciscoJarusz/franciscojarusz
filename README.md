@@ -1,4 +1,3 @@
-
 # 👋 Hola, soy Francisco!
 
 Soy estudiante de Licenciatura en Sistemas de Información en la Universidad Nacional de Luján (UNLu).
@@ -9,6 +8,7 @@ Tengo un gran interés en el desarrollo front-end, porque me encanta la parte vi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscojarusz)](https://github.com/anuraghazra/github-readme-stats)
 
+
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Franciscojarusz&theme=dark&hide_border=true&border_radius=20&locale=es&short_numbers=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FranciscoJarusz&theme=dark&hide_border=true&border_radius=20&locale=es&short_numbers=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)

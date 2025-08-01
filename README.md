@@ -11,4 +11,4 @@ Tengo un gran interés en el desarrollo front-end, porque me encanta la parte vi
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FranciscoJarusz&theme=dark&hide_border=true&border_radius=20&locale=es&short_numbers=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=FranciscoJarusz&theme=dark&locale=es)](https://git.io/streak-stats)

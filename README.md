@@ -1,6 +1,6 @@
-# 👋 Hola, soy Francisco!
+# ¡Hola! soy Francisco.
 
-Soy estudiante de Licenciatura en Sistemas de Información en la Universidad Nacional de Luján (UNLu).
+Estudiante de Licenciatura en Sistemas de Información en la Universidad Nacional de Luján (UNLu).
 
 Tengo un gran interés en el desarrollo front-end, porque me encanta la parte visual y creativa de construir interfaces atractivas y funcionales; aunque también siento curiosidad por el back-end.
 

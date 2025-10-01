@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/yfNIpXq.png" alt="Banner" width="800px" style="border-radius:15px;">
-</p>
+<img src="https://i.imgur.com/yfNIpXq.png" alt="Banner" width="800px" style="border-radius:15px;">
 
 # ¡Hola! soy Francisco.
 

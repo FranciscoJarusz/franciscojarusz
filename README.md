@@ -1,6 +1,10 @@
 # ¡Hola! soy Francisco.
 
-Estudiante de Sistemas y desarrollador front-end con más de 6 meses de experiencia. Tengo 20 años y me apasiona transformar ideas en experiencias digitales intuitivas y enfocadas en el usuario.
+Tengo 21 años y estoy estudiando Licenciatura en Sistemas de Información en UNLu (Universidad Nacional de Lujan)
+
+Soy un desarrollador web con una fuerte inclinación hacia el front-end, y mi pasión es crear experiencias digitales que no solo sean atractivas visualmente, sino también altamente funcionales y usables.
+
+Visitá mis redes ⤵
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscojarusz/)
 [![portfolio](https://img.shields.io/badge/portfolio-e5c359?style=for-the-badge&logo=portfolio&logoColor=white)](https://portfolio-franciscojarusz.netlify.app/)
